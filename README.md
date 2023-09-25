@@ -11,10 +11,11 @@ I live in Melbourne, Australia. I'm a big fan of complex problems.
 - **<a href="https://www.intradark.com">Intradark</a>**: An online esports platform offering tournaments, coaching, practice systems, news and more. Developed on my own using NextJS.
 - **Intradark Systems**: I offer custom IT / Design / Marketing solutions for individual clients and businesses alike, including website procurement, partnership decks, event MCing, operations, logo and branding assets, IT infrastructure / installation etc.
 
-  <!-- Add more details or links if you'd like -->
+## Education
 
-## What I Work With
-<!-- Technologies badges will go here -->
+- 🎓 **Bachelor's Degree in Business (Marketing & Analytics)**, RMIT University
+- 🎓 **Bachelor in Interactive Media (Animation)**, Deakin University
+
 
 ## Development
 
@@ -58,8 +59,3 @@ I live in Melbourne, Australia. I'm a big fan of complex problems.
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## Education
-
-- 🎓 **Bachelor's Degree in Business (Marketing & Analytics)**, RMIT University
-- 🎓 **Bachelor in Interactive Media (Animation)**, Deakin University
