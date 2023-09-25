@@ -4,6 +4,7 @@ I live in Melbourne, Australia. I'm a big fan of complex problems.
 ## Get In Touch
 <a href="mailto:agirton@intradark.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/aarongirton/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://jourdain.design"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 
 ## What I Work With
 <!-- Technologies badges will go here -->
