@@ -5,7 +5,7 @@ I live in Melbourne, Australia. I'm a big fan of complex problems.
 <a href="mailto:agirton@intradark.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/aarongirton/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-# What I Work With
+## What I Work With
 <!-- Technologies badges will go here -->
 
 ## Development
@@ -25,7 +25,7 @@ I live in Melbourne, Australia. I'm a big fan of complex problems.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Design
+## Design
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
