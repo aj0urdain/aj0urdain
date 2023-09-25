@@ -6,6 +6,13 @@ I live in Melbourne, Australia. I'm a big fan of complex problems.
 <a href="https://www.linkedin.com/in/aarongirton/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://jourdain.design"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 
+## Projects / Businesses
+
+- **Intradark.com**: An online esports platform offering tournaments, coaching, practice systems, news and more. Developed on my own using NextJS.
+- **Intradark Systems**: My business where I offer custom IT / Design / Marketing solutions for individual clients and businesses alike.
+
+  <!-- Add more details or links if you'd like -->
+
 ## What I Work With
 <!-- Technologies badges will go here -->
 
@@ -59,10 +66,3 @@ I live in Melbourne, Australia. I'm a big fan of complex problems.
 
 - **Bachelor in Interactive Media (Animation)**
   - Deakin University
-
-## Projects
-
-- **IntraDark**: The future of esports, a comprehensive platform for every aspect of professional gaming.
-  <!-- Add more details or links if you'd like -->
-
-<!-- Add more projects as they come along -->
