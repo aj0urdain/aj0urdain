@@ -7,5 +7,6 @@ I live in Melbourne, Australia. I'm a big fan of complex problems.
 
 ### What I Work With
 <!-- Technologies badges will go here -->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajkfreak&show_icons=true&theme=dark)
