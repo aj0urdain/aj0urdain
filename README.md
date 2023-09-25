@@ -61,5 +61,5 @@ I live in Melbourne, Australia. I'm a big fan of complex problems.
 
 ## Education
 
-- 🎓 **Bachelor's Degree in Business (Marketing & Analytics), RMIT University**
-- 🎓 **Bachelor in Interactive Media (Animation), Deakin University**
+- 🎓 **Bachelor's Degree in Business (Marketing & Analytics)**, RMIT University
+- 🎓 **Bachelor in Interactive Media (Animation)**, Deakin University
